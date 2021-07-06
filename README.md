@@ -11,7 +11,7 @@
     <p>- 💞️ I’m looking to collaborate on design some nonprofit small webpage from the frontend.</p>
 </body>
 <footer>
-    <p>- 📫 How to reach me => <a>sonkauram@gmail.com</a></p>
+    <p>- 📫 How to reach me => <a href='nothing'>sonkauram@gmail.com</a></p>
     </br>
     <p>Let me know some information from the project in the mail <b>subject</b> please.</p>
     </br>
